@@ -17,5 +17,5 @@ We compare the performance of the two
 approaches. We also use visualizations to find
 biomarkers for these parameters.
 
-Resulting paper can be found here['https://github.com/infinite-pursuits/ML4HC_3Dprediction/blob/master/Chhavi_Yadav_MLHC.pdf']
+Resulting paper can be found [here](https://github.com/infinite-pursuits/ML4HC_3Dprediction/blob/master/Chhavi_Yadav_MLHC.pdf)
 
