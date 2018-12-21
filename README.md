@@ -1,7 +1,7 @@
 # ML4HC_3Dprediction
 Using Brain MRI images to predict Memory, BMI and Age
 
-This project was done for the course ['Machine Learning for Healthcare'] at NYU in Fall 2018.
+This project was done for the course Machine Learning for Healthcare at NYU in Fall 2018.
 
 ## Abstract
 In recent years, a lot of research has been done
